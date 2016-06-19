@@ -1,0 +1,15 @@
+Package: flowQBData
+Type: Package
+Title: flowQB test and example data files
+Version: 0.99.0
+Author: Josef Spidlen, Wayne Moore, David Parks, Faysal El Khettabi,
+        Ryan Brinkman
+Maintainer: Josef Spidlen <jspidlen@bccrc.ca>
+Description: The flowQBData package provides data files used as
+        examples and for testing of the software provided in the flowQB
+        package.
+License: Artistic License 2.0
+Depends: R (>= 3.2.0)
+Suggests: flowQB
+biocViews: ExperimentData, FlowCytometryData
+NeedsCompilation: no

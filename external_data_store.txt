@@ -1,0 +1,5 @@
+inst/extdata
+inst/extdata/SSFF_LSRII/LED_Series
+inst/extdata/SSFF_LSRII/Other_Tests
+inst/extdata/SSFF_LSRII
+inst/extdata/SSFF_LSRII/SU_2B
