@@ -1,7 +1,7 @@
 Package: flowQBData
 Type: Package
 Title: flowQB test and example data files
-Version: 1.4.0
+Version: 1.5.0
 Author: Josef Spidlen, Wayne Moore, David Parks, Faysal El Khettabi,
         Ryan Brinkman
 Maintainer: Josef Spidlen <jspidlen@bccrc.ca>
